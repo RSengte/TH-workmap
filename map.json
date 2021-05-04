@@ -1033,6 +1033,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":321,
+         "image":"gather_chairs_1.3.png",
+         "imageheight":1024,
+         "imagewidth":800,
+         "margin":0,
+         "name":"chairs",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
